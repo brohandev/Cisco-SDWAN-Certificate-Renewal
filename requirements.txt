@@ -1,0 +1,6 @@
+beautifulsoup4==4.12.3
+prettyprinter==0.18.0
+python-dotenv==1.0.1
+python_json_logger==2.0.7
+Requests==2.31.0
+urllib3==1.26.9
